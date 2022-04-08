@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - prints
+ * main - prints phrase
  * Return - 1
  */
 int main(void)
