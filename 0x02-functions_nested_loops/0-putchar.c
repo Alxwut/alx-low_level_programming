@@ -2,8 +2,7 @@
 
 /**
  * main-prints the phrase wanted
- *
- * Return-print
+ * return-print
  */
 int main(void)
 {
