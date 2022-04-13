@@ -4,8 +4,8 @@
  * main-prints the phrase wanted
  *
  */
-
-int void() 
+void
+int main() 
 {
 	    printf("_putchar\n");
 	        return 0;
