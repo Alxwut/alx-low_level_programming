@@ -5,7 +5,7 @@
  *
  */
 
-int void_putchar() 
+int void() 
 {
 	    printf("_putchar\n");
 	        return 0;
