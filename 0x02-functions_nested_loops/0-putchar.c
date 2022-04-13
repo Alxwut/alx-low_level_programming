@@ -10,7 +10,7 @@
  *
  * *Return: nothing
  *
- * */
+ */
 
 void print_diagonal(int n)
 
