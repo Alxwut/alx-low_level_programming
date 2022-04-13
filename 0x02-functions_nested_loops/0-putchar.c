@@ -1,2 +1,5 @@
-#!/bin/bash
-tail -n 1 iacta >> iacta
+void hello(*char name) {
+
+	   printf("Hello %s",name);
+
+}
